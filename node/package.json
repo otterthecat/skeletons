@@ -1,0 +1,29 @@
+{
+  "name": "Project",
+  "title": "Project",
+  "description": "Snazzy Description",
+  "version": "0.0.1",
+  "private": true,
+  "homepage": "git@github.com:otterthecat/myRepo.git",
+  "author": {
+    "name": "Otter the Cat",
+    "email": "otc@otterthecat.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/otterthecat/myRepo.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-complexity": "^0.2.1",
+    "gulp-istanbul": "^0.2.0",
+    "gulp-jshint": "^1.6.4",
+    "gulp-mocha": "^0.4.1",
+    "gulp-plato": "^0.2.1"
+  },
+  "keywords": [
+    "Things"
+  ]
+}
