@@ -42,7 +42,7 @@
 
 	"requireBlocksOnNewline": 1,
 
-	"disallowPaddingNewLinesInBlocks": true,
+	"disallowPaddingNewlinesInBlocks": true,
 
 	"disallowEmptyBlocks": true,
 
