@@ -89,7 +89,7 @@
 		"escape": true
 	},
 
-	"validateIndentation": 2,
+	"validateIndentation": "\t",
 
 	"disallowMixedSpacesAndTabs": true,
 
@@ -101,7 +101,7 @@
 
 	"requireLineFeedAtFileEnd": true,
 
-	"maximumLineLength": 80,
+	"maximumLineLength": 90,
 
 	"requireCapitalizedConstructors": true,
 
