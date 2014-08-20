@@ -41,8 +41,8 @@ Icon?
 ehthumbs.db
 Thumbs.db
 
-# IDE Files #
-#############
+# IDE / Editor Files #
+######################
 .idea/*
 nbproject/*
 .settings/org.eclipse.php.core.prefs
@@ -50,6 +50,7 @@ nbproject/*
 .buildpath
 *.sublime-project
 *.sublime-workspace
+*.swp
 
 # GENERATED REPORTS #
 #####################
