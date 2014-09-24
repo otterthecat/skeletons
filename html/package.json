@@ -4,7 +4,7 @@
 	"description": "I made this",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "git@github.com:otterthecat/[something awesome].git",
+	"homepage": "https://github.com/otterthecat/[something awesome].git",
 	"author": {
 		"name": "Otter the Cat",
 		"email": "otc@otterthecat.com"
@@ -14,7 +14,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/otterthecat/[something awesome].git"
+		"url": "git@github.com:otterthecat/[something awesome].git"
 	},
 	"devDependencies": {
 		"gulp": "^3.8.5",
